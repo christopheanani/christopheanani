@@ -32,13 +32,6 @@ I care about the space between **what should be built, how it should feel, and h
 | [West Drive](https://pariswestdrive.fr/) | Vehicle rental platform with customer-facing experience and administrative tools. Built with Next.js, TypeScript, and Tailwind CSS |
 | [Classic](#) | An E-commerce product interface exploring workflows, information architecture and reusable UI patterns with Figma, React, and TypeScript. |
 
-## ACHIEVEMENTS
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=christopheanani&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
-
-</div>
-
 ## CURRENTLY
 
 - **Exploring:** AI-assisted development · Design systems · System Design
