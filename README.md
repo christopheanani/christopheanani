@@ -9,7 +9,6 @@ I design and build digital products from interface to implementation.
 [Portfolio](https://senseichris.xyz) ·
 [LinkedIn](https://www.linkedin.com/in/christopheanani/) ·
 [Email](mailto:christopheanani9@gmail.com)
-
 </div>
 <br />
 
@@ -19,30 +18,11 @@ I am a Design Engineer working at the intersection of **product design and front
 My work moves between product thinking, interaction design, design systems and production-ready interfaces. <br />
 I care about the space between **what should be built, how it should feel, and how it should actually work**.
 
-
 ## TECH STACK
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js, Tailwind CSS, REST APIs, Git & GitHub
 - **Design Engineering:** Figma, Design Systems, Interaction Design, Prototypage, Adobe Photoshop, Illustrator
 - **Testing & Qualité:** Playwright, Tests UI, Tests API, Tests fonctionnels, Tests de régression, Postman, Accessibilité WCAG
-
-## GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=christopheanani&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dark" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopheanani&layout=compact&hide_border=true&langs_count=8&theme=dark" height="160" />
-
-</div>
-
-## ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=christopheanani&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1F6FE5" width="100%" />
-
-</div>
 
 ## FEATURED PROJECTS
 
